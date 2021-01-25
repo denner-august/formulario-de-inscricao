@@ -6,11 +6,11 @@
 }
 
 body{
-    background-image: url(../images/bg-intro-desktop.png);
+    background-image: url(../images/champion-rengar-splash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #121214 ;
-    color: white;
+    color: rgb(255, 255, 255);
     margin: 5% 20px;
     overflow: hidden;
     
@@ -82,5 +82,5 @@ button{
     padding: 20px;
     width: 90%;
     color: white;
-    background-color: hsl(154, 59%, 51%);
+    background-color:hsl(248, 32%, 49%);
 }
